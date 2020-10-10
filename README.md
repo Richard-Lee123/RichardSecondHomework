@@ -1,6 +1,6 @@
 # RichardSecondHomework
 
-Hello
-tring to get this to work.
+-Hello
+-trying to get this to work.
 
-testing?
+-testing?
